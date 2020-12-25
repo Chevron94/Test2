@@ -7,10 +7,11 @@ uses
   Dialogs;
 
 type
-  TForm1 = class(TForm)
+
+  TForm2 = class(TForm)
 
 var
-  Form1: TForm1;
+  Form2: TForm1;
 
 implementation
 

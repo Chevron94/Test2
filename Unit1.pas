@@ -8,8 +8,6 @@ uses
 
 type
   TForm1 = class(TForm)
-  private
-  end;
 
 var
   Form1: TForm1;

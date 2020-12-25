@@ -7,10 +7,8 @@ uses
   Dialogs;
 
 type
+
   TForm2 = class(TForm)
-  private
-  some changes;
-  end;
 
 var
   Form2: TForm1;

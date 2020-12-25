@@ -7,12 +7,13 @@ uses
   Dialogs;
 
 type
-  TForm1 = class(TForm)
+  TForm2 = class(TForm)
   private
+  some changes;
   end;
 
 var
-  Form1: TForm1;
+  Form2: TForm1;
 
 implementation
 
